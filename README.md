@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pratham Nagpal
 - 👀 I’m interested in Full stack development
-- 🌱 I’m currently learning React js
+- 🌱 I’m currently learning React js,c++
 
 - 📫 How to reach me nagpalpratham1@gmail.com
 
