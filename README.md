@@ -13,6 +13,11 @@
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ---
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pratham1854&show_icons=true&locale=en&layout=compact" alt="Pratham1854" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Pratham1854&show_icons=true&locale=en" alt="Pratham1854" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pratham1854&" alt="Pratham1854" /></p>
 
 <!---
 Pratham1854/Pratham1854 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
