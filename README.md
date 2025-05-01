@@ -17,8 +17,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Pratham1854&show_icons=true&locale=en" alt="Pratham1854" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pratham1854&" alt="Pratham1854" /></p>
-
+ <img src="https://nirzak-streak-stats.vercel.app/?user=Pratham1854&theme=dark&hide_border=false" height="180px">&nbsp; &nbsp;
 <!---
 Pratham1854/Pratham1854 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
