@@ -3,9 +3,7 @@
 - 🌱 I’m currently learning Node js,Express js,c++
 
 - 📫 How to reach me nagpalpratham1@gmail.com
-- <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=pratham1854&label=Profile%20views&color=0e75b6&style=flat" alt="pratham1854" />
-</p>
+-
 
 - ## 🛠 Technologies & Tools
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
